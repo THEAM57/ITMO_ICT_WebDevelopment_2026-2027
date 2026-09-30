@@ -1,5 +1,6 @@
 site_name: Веб-программирование. Медолазов Андрей. K3341
 docs_dir: students/K3341/Medolazov_Andrey
+use_directory_urls: false
 theme:
   name: material
   language: ru
